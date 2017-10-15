@@ -5,6 +5,20 @@ This project is working off the The Movie DB API (https://www.themoviedb.org/doc
   ![Main Page](https://i.imgur.com/EQ0uUzp.png)
   
   ![Login](https://i.imgur.com/nMAteVr.png)
+  
+### Setup
+
+  ##### Clone repo
+  - ```git clone https://github.com/davidbecker6081/movie-tracker.git```
+
+  ##### NPM install
+  - ```npm install```
+
+  ##### NPM start
+  - ```npm start```
+
+  ##### Open in browser
+
 
 ### Project Specs
 
