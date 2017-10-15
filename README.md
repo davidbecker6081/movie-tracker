@@ -1,6 +1,6 @@
 # Movie Tracker
 
-This project is working off the The Movie DB API (https://www.themoviedb.org/documentation/api). The goal of the project was to create a web application that allows users to look at information for newly released movies, create an account to save favorites, and login or logout from that account. The stack used to create this project included HTML/CSS, React/Redux/Router, Knex, and testing using Jest/Enzyme and fetchmock. 
+This project is working off the The Movie DB API (https://www.themoviedb.org/documentation/api). The goal of the project was to create a web application that allows users to look at information for newly released movies, create an account to save favorites, and login or logout from that account. The stack used to create this project included CSS, React/Redux/Router, Knex, and testing using Jest/Enzyme and fetchmock. 
   
   ![Main Page](https://i.imgur.com/EQ0uUzp.png)
   
