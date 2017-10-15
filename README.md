@@ -6,6 +6,7 @@ This project is working off the The Movie DB API (https://www.themoviedb.org/doc
   
   ![Login](https://i.imgur.com/nMAteVr.png)
 
+### Project Specs
 
 ###### Users
 
